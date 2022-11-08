@@ -1,0 +1,23 @@
+
+footer {
+
+
+    clear: both;
+    
+    width: 98.8%;
+    
+    height: auto;
+    
+    text-align: center;
+    
+    margin: 5px 5px 5px 5px;
+    
+    border-radius: 3px;
+    
+    border-bottom: 1px solid gainsboro;
+    
+    padding-top: 15px;
+    
+    padding-bottom: 15px;
+    
+    }
